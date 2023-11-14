@@ -6,4 +6,4 @@ AEOS Settings is AEOS's main interface for configuration of various aspects of y
 ## Reporting Issues
 
 
-Report issues to the [AEOS issue tracking system](https://bugs.atlanexis.com/apps/core/settings).
+Report issues to the [AEOS issue tracking system](https://bugs.atlanexis.com).
