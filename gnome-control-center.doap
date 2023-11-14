@@ -1,0 +1,20 @@
+<Project xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:gnome="http://api.gnome.org/doap-extensions#"
+         xmlns="http://usefulinc.com/ns/doap#">
+
+  <name xml:lang="en">AEOS Settings</name>
+  <shortdesc xml:lang="en">AOES's main interface to configure various aspects of the desktop</shortdesc>
+  <description xml:lang="en">AEOS's main interface to configure various aspects of the desktop</description>
+  <programming-language>C</programming-language>
+
+  <!-- General -->
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Hirech Baghdad Belkheir</foaf:name>
+      <foaf:mbox rdf:resource="mailto:hirechbaghdad@atlanexis.com" />
+      <gnome:userid>atlanexis</gnome:userid>
+    </foaf:Person>
+  </maintainer>
+</Project>
